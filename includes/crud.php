@@ -18,7 +18,7 @@ class Database
      * Database class
      */
 
-    private $db_host = "phpstack-514183-1632748.cloudwaysapps.com";  // Change as required
+    private $db_host = "localhost";  // Change as required
     private $db_user = "hsgjbsmzsv";  // Change as required
     private $db_pass = "#Vasubanti026K";  // Change as required
     private $db_name = "hsgjbsmzsv";    // Change as required
