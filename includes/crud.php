@@ -5,7 +5,7 @@
  * @Package Database
  */
 
-define('DOMAIN_URL', 'http://134.209.149.55/'); /* chnage to your domain here - don't forget to add forward slash at the end of the URL like this "/" */
+define('DOMAIN_URL', 'http://phpstack-514183-1632748.cloudwaysapps.com/'); /* chnage to your domain here - don't forget to add forward slash at the end of the URL like this "/" */
 define('ALLOW_MODIFICATION', 1);
 define('JWT_SECRET_KEY', 'replace_with_your_strong_jwt_secret_key'); /* chnage to your secret key here set it to anything you like*/
 
